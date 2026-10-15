@@ -1,0 +1,2 @@
+Python is a programming language.
+MCP allows AI applications to connect to tools.
